@@ -1,0 +1,23 @@
+{
+  "name": "gulpConfig",
+  "homepage": "https://github.com/SurendraVidiyala/AngularJS",
+  "authors": [
+    "<surendra_vidiyala> <<vidiyala.surendra@gmail.com>>"
+  ],
+  "description": "gulp configuration in Angular proj",
+  "main": "main.html",
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "font-awesome"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
